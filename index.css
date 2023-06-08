@@ -1,3 +1,15 @@
+@media screen and (max-width: 768px) {
+  .my-element {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .my-element {
+    width: 50%;
+  }
+}
+
 .macbook-pro-16-1-child {
   position: absolute;
   top: 1346px;
@@ -631,13 +643,13 @@
 .group-icon24,
 .group-icon25,
 .group-icon26 {
-  position: absolute;
+  position: relative;
   height: 2.21%;
   width: 7.64%;
-  top: 37.91%;
-  right: 35.88%;
-  bottom: 59.88%;
-  left: 56.48%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
