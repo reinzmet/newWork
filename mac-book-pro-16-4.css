@@ -1,0 +1,203 @@
+.manila-villa-project-in-the-ph-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1794px;
+  height: 1177px;
+  object-fit: cover;
+}
+.macbook-pro-16-4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(2px);
+  width: 1728px;
+  height: 1177px;
+}
+.you-dream1 {
+  color: var(--color-peru-100);
+}
+.we-build-what-container1 {
+  position: absolute;
+  top: 490px;
+  left: 377px;
+  font-size: var(--font-size-45xl);
+  line-height: 90px;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+.at-factory-prices {
+  position: absolute;
+  top: 539px;
+  left: 1115px;
+  font-size: var(--font-size-10xl-1);
+  line-height: 93.55px;
+  text-align: center;
+  text-shadow: 0 0 4.16px rgba(0, 0, 0, 0.25);
+}
+.macbook-pro-16-4-item {
+  position: absolute;
+  top: 619px;
+  left: 743px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-peru-200);
+  border: 3px solid var(--color-peru-100);
+  box-sizing: border-box;
+  width: 242px;
+  height: 69px;
+}
+.shop-now {
+  position: absolute;
+  top: 646px;
+  left: 794px;
+  display: inline-block;
+  width: 141px;
+  height: 15px;
+}
+.macbook-pro-16-4-inner {
+  position: absolute;
+  top: -37px;
+  left: -66px;
+  background-color: rgba(0, 0, 0, 0.53);
+  backdrop-filter: blur(10px);
+  width: 1839px;
+  height: 1218px;
+}
+.product-supply6,
+.project-solution6 {
+  position: absolute;
+  top: 119px;
+  left: 803px;
+}
+.project-solution6 {
+  left: 1011px;
+  color: var(--color-peru-100);
+}
+.icon6,
+.mask-group-icon21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 515px;
+  height: 290px;
+  object-fit: cover;
+}
+.mask-group-icon21 {
+  top: 119px;
+  left: 1546px;
+  width: 23px;
+  height: 23px;
+}
+.about-us13,
+.our-projects6 {
+  position: absolute;
+  top: 119px;
+  left: 1225px;
+}
+.about-us13 {
+  left: 1405px;
+}
+.iconmapsplace-24px-child8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.01%;
+  bottom: 0;
+  left: 0.01%;
+  border-radius: 50%;
+  border: 1.1px solid var(--white);
+  box-sizing: border-box;
+}
+.div42 {
+  position: absolute;
+  height: 50%;
+  width: 38.89%;
+  top: 25%;
+  left: 27.79%;
+  letter-spacing: 1.65px;
+  font-weight: 500;
+  display: inline-block;
+}
+.furniture11,
+.iconmapsplace-24px11 {
+  position: relative;
+  width: 14.89px;
+  height: 14.89px;
+  opacity: 0.85;
+}
+.furniture11 {
+  font-size: 12.41px;
+  letter-spacing: 1.65px;
+  font-weight: 500;
+  display: inline-block;
+  width: 74.47px;
+  height: 9.1px;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.iconmapsplace-24px-parent9 {
+  position: absolute;
+  width: 6.7%;
+  top: calc(50% + 3073.86px);
+  right: 22%;
+  left: 71.3%;
+  border-radius: 29.79px;
+  background-color: var(--color-gray-400);
+  display: flex;
+  flex-direction: row;
+  padding: 8.274949073791504px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9.93px;
+  font-size: 9.93px;
+  color: var(--white);
+}
+.group-icon22 {
+  position: absolute;
+  height: 0.38%;
+  width: 1.16%;
+  top: 1.99%;
+  right: 5.9%;
+  bottom: 97.63%;
+  left: 92.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.macbook-pro-16-4-child1 {
+  position: absolute;
+  top: 162px;
+  left: 928px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 284px;
+  height: 641px;
+}
+.window {
+  margin: 0;
+}
+.window-door-staircase-railing {
+  position: absolute;
+  top: 183px;
+  left: 999px;
+  line-height: 75px;
+  font-weight: 600;
+  color: var(--color-darkslategray-100);
+  text-align: right;
+}
+.macbook-pro-16-4 {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1177px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-josefin-sans);
+}
